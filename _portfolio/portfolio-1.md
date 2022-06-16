@@ -1,6 +1,6 @@
 ---
 title: "Shiny App - Interactive Map for Ukranian Scientists"
-excerpt: "This Shiny App is written in R and has an interactive map...(Click for more information)<br/>This application is currently live at <a href="https://mikelly11.shinyapps.io/UkraineScientists/">ShinyApps.io</a><br/><img src='/images/Ukraine.png'>"
+excerpt: "This Shiny App is written in R and has an interactive map...(Click for more information)<br/>This application is currently live at [shinyApps.io](https://mikelly11.shinyapps.io/UkraineScientists/)<br/><img src='/images/Ukraine.png'>"
 collection: portfolio
 ---
 
