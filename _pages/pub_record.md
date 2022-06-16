@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Publications"
+permalink: /pub_record/
+author_profile: true
+---
+
 # Publications
 
 **MI Kelly**, M Albahrani, C Castro, E Poon, B Yan, J Littrell, M Waas, KR Boheler, RL Gundry. 
