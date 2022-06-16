@@ -5,8 +5,6 @@ permalink: /pub_record/
 author_profile: true
 ---
 
-# Publications
-
 **MI Kelly**, M Albahrani, C Castro, E Poon, B Yan, J Littrell, M Waas, KR Boheler, RL Gundry. 
 Importance of evaluating protein glycosylation in pluripotent stem cell-derived cardiomyocytes for research and clinical applications. 
 European Journal of Physiology 473 (7), 1041-1059 (2021) [PubMed](https://pubmed.ncbi.nlm.nih.gov/33830329/)
