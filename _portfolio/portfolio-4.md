@@ -3,7 +3,7 @@ title: "GlyCombo"
 excerpt: "GlyCombo is an open source software for combinatorial glycan composition determination to identify glycans in MS acquisitions of glycan-containing samples in text or mzML formats. This application enables rapid extraction of precursor m/z values from mzML files, a vendor-neutral format that ensures cross-platform compatibility. (Click for more information)<br/><img src='/images/GlyCombo.png'>"
 collection: portfolio
 tags: ["featured"]
-date: 2024-09-13
+priority: 2
 ---
 
 GlyCombo is an open source software for combinatorial glycan composition determination to identify glycans in MS acquisitions of glycan-containing samples in text or mzML formats. This application enables rapid extraction of precursor m/z values from mzML files, a vendor-neutral format that ensures cross-platform compatibility.
