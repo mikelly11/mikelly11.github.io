@@ -7,8 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+{% for post in site.portfolio | sort: 'date' %}
+  {% if post.tags contains "featured" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
+
 
